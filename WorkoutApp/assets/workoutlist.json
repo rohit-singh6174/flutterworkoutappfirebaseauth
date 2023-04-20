@@ -1,0 +1,87 @@
+{
+  "workout": [
+    {
+      "id": 0,
+      "name": "Incline Bench press",
+      "category": "Chest",
+      "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/09/dumbbell-incline-chest-press.gif",
+      "reps": "12",
+      "sets": "3 or 4",
+      "imageUrl": "https://www.shutterstock.com/image-illustration/press-bar-lying-on-incline-600w-425668825.jpg",
+      "listimgurl": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2017/03/Incline-Bench-Press-670x370.jpg",
+      "youtubeUrl":"https://www.youtube.com/watch?v=IP4oeKh1Sd4"
+    },
+    {
+      "id": 1,
+      "name": "Stright Bench press",
+      "category": "Chest",
+      "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/04/barbell-bench-press.gif",
+      "reps": "12",
+      "sets": "3 to 4",
+      "imageUrl": "https://www.shutterstock.com/image-illustration/dumbbell-bench-press-lying-second-600w-428906839.jpg",
+      "listimgurl": "https://hips.hearstapps.com/hmg-prod/images/766/articles/2017/10/benchpress-1508589156.jpg?resize=1200:*",
+      "youtubeUrl":"https://www.youtube.com/watch?v=jRUC6IVav30"
+    },
+    {
+      "id": 2,
+      "name": "Decline Bench press",
+      "category": "Chest",
+      "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Decline-Dumbbell-Press.gif",
+      "reps": "12",
+      "sets": "3 to 4",
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2021/10/decline-bench-press-1024x566.png",
+      "listimgurl": "https://cdn.theworkoutdigest.com/wp-content/uploads/2021/01/decline-bench-press-alternatives.png",
+      "youtubeUrl":"https://www.youtube.com/watch?v=0xRvl4Qv3ZY"
+    },
+    {
+      "id": 3,
+      "name": "Triceps Extension",
+      "category": "Triceps",
+      "gif": "https://www.nickhallbodytransformations.com/wp-content/uploads/2019/01/17481301-EZ-Bar-Lying-Close-Grip-Triceps-Extension-Behind-Head_Upper-Arms_360.gif",
+      "reps": "12",
+      "sets": "3 to 4",
+      "imageUrl": "https://www.shutterstock.com/image-illustration/french-press-barbell-lying-3d-600w-419748157.jpg",
+      "listimgurl": "https://www.fitliferegime.com/wp-content/uploads/2021/07/Best-Triceps-workout-with-Dumbbell-for-Bigger-Arms.jpg",
+      "youtubeUrl":"https://www.youtube.com/watch?v=MO_03opCc0g&t=2s"
+    }
+  ,
+    {
+      "id": 4,
+      "name": "Rope Pulldowns",
+      "category": "Triceps",
+      "gif": "https://www.aleanlife.com/wp-content/uploads/2020/08/tricep-rope-pulldown.gif",
+      "reps": "12",
+      "sets": "3 to 4",
+      "imageUrl": "https://www.shutterstock.com/image-illustration/french-press-barbell-lying-3d-600w-419748157.jpg",
+      "listimgurl": "https://st2.depositphotos.com/6644926/43918/i/450/depositphotos_439184306-stock-photo-slim-fit-woman-perfect-body.jpg",
+      "youtubeUrl":"https://www.youtube.com/watch?v=kiuVA0gs3EI"
+    },
+
+    {
+      "id": 5,
+      "name": "Lats Pulldowns",
+      "category": "Back",
+      "gif": "https://www.inspireusafoundation.org/wp-content/uploads/2022/08/wide-grip-lat-pulldown.gif",
+      "reps": "10",
+      "sets": "3 to 4",
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2021/10/lat-pulldown-1536x1196.png",
+      "listimgurl": "https://w0.peakpx.com/wallpaper/734/775/HD-wallpaper-woman-in-black-sports-bra-exercising-using-lat-pull-down-machine.jpg",
+      "youtubeUrl":"https://www.youtube.com/watch?v=kiuVA0gs3EI"
+    },
+
+    {
+      "id": 6,
+      "name": "Cable Row",
+      "category": "Back",
+      "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/06/close-grip-cable-row.gif",
+      "reps": "10",
+      "sets": "3 to 4",
+      "imageUrl": "https://static.strengthlevel.com/images/illustrations/seated-cable-row-1000x1000.jpg",
+      "listimgurl": "https://media.gettyimages.com/id/1342118719/photo/muscular-man-doing-exercise-in-seated-cable-row-machine.jpg?s=612x612&w=gi&k=20&c=NHivzt7uFDjNEGWSbdbkkHJv2Vwi56q4UmDlphdu7r8=",
+      "youtubeUrl":"https://www.youtube.com/watch?v=kiuVA0gs3EI"
+    }
+
+
+  ]
+
+}
